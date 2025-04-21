@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://github.com/mrbovinae"> </a>, <a href="https://www.linkedin.com/in/brandon-corasmin-6b446a217/">Cybersecurity Professional</a>,
+<h1>Hello, I'm Brandon! <br/><a href="https://github.com/mrbovinae"> </a>, <a href="https://www.linkedin.com/in/brandon-corasmin-6b446a217/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 (IAM) Identity Access Management Projects:</h2>
 
