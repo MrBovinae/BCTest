@@ -1,6 +1,6 @@
 <h1>Hello, I'm Brandon! <br/><a href="https://github.com/mrbovinae"> </a> <a href="https://www.linkedin.com/in/brandon-corasmin-6b446a217/">💻Cybersecurity Professional💻</a>
 <h2> (AD) Active Directory Projects </h2>
-<a> </a>  Vulnerability Management <a href="https://github.com/MrBovinae/ActiveDirectoryLab">(Zero Trust Threat Hunting)</a>
+<ul> <li> Vulnerability Management </ul> <a href="https://github.com/MrBovinae/ActiveDirectoryLab"> <li>(Zero Trust Threat Hunting)</li>
 
 <h2>👨‍💻 (IAM) Identity Access Management Projects:</h2>
 
