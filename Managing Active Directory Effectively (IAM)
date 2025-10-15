@@ -1,1 +1,16 @@
+<h1>Active Directory Lab - Legacy Account Modernization</h1>
+
+<h2>Description</h2>
+In this Project, we will discover threats or vulnerabilities within a virtual machine used by an employee in a simulated Zero Trust Enviroment.
+<br />
+
+
+<h2>Utilities Used</h2>
+
+- <b>Tenable</b> 
+- <b>Powershell</b> 
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> (21H2)
 
