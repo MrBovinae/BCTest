@@ -1,4 +1,4 @@
-<h1>Hello, I'm Brandon! <br/><a href="https://github.com/mrbovinae"> </a> <a href="HTTPS://WWW.LINKEDIN.COM/IN/BRANDON-C-6B446A217/">💻Cybersecurity Professional💻</a>
+<h1>Hello, I'm Brandon! <br/><a href="https://github.com/mrbovinae"> </a> <a href="https://www.linkedin.com/in/brandon-c-6b446a217/">💻Cybersecurity Professional💻</a>
 <h2> (AD) Active Directory Projects </h2>
 <ul> <li> Vulnerability Management </ul> <a href="https://github.com/MrBovinae/ActiveDirectoryLab"> <li>(Zero Trust Threat Hunting)</li>
 
