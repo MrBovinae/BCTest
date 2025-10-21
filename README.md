@@ -5,7 +5,7 @@
 <h2>👨‍💻 (IAM) Identity Access Management Projects:</h2>
 
 - <b>Managing Active Directory Effectively (IAM)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How To Find/ Remove Legacy Accounts](https://github.com/MrBovinae/Managing-Active-Directory-Effectively-)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
